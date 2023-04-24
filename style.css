@@ -1,0 +1,55 @@
+
+.ui {
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.tabuada { 
+    background-color: rgb(10, 192, 192);
+    font-size: 19px;
+
+}
+.tabuada1 {
+    padding-bottom: 3%;
+    padding-left: 4%;
+    display: inline-block;
+}
+.tabuada2 {
+    padding-left: 4%;
+    display: inline-block;
+  
+}
+.tabuada3 {
+    padding-left: 4%;
+    display: inline-block; 
+}
+.tabuada4 {
+    padding-left: 4%;
+    display: inline-block;
+}
+.tabuada5 {
+    padding-left: 4%;
+    padding-right: 38%;
+    display: inline-block;
+    
+}
+.tabuada6 {
+    display: inline-block;
+    padding-left: 4%;
+    
+}
+.tabuada7 {
+    padding-left: 4%;
+    display: inline-block;
+}
+.tabuada8 {
+    padding-left: 4%;
+    display: inline-block;
+}
+.tabuada9 {
+    padding-left: 4%;
+    display: inline-block;}
+.tabuada10 {
+    padding-left: 4%;
+    display: inline-block;
+    padding-right: 31%;
+}
